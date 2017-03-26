@@ -6,4 +6,5 @@ insert = function(ID, Deadline, Description, Link, file = "data/hw.Rds") {
                           Description = Description, 
                           Link = Link)
   saveRDS(data, file)
+  knitr::knit("README.Rmd")
 }
