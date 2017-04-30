@@ -17,6 +17,7 @@
 |[hw03j](https://github.com/rokko-ed17q1/hw03j) |2017-04-19 18:00 |Vectors and matrices (in Japanese) |[Get Invitation](https://classroom.github.com/assignment-invitations/61e3ec14cec19d29344f4da6d0664ca3) |
 |[hw04](https://github.com/rokko-ed17q1/hw04)   |2017-04-23 18:00 |Eigenvalues and eigenvectors       |[Get Invitation](https://classroom.github.com/assignment-invitations/2869aa6e66dbb45f747c18cf1218996c) |
 |[hw05](https://github.com/rokko-ed17q1/hw05)   |2017-04-30 18:00 |Simulation                         |[Get Invitation](https://classroom.github.com/assignment-invitations/41020972bd05ef077df334665c4971ad) |
+|[hw06](https://github.com/rokko-ed17q1/hw06)   |2017-05-07 18:00 |R Package                          |[Get Invitation](https://classroom.github.com/assignment-invitations/a08dc0cdb81e95ed8fcc97c4627208fa) |
 
 ## 提出状況の確認
 
